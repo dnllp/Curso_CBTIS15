@@ -8,7 +8,7 @@ AsyncWebServer server(80);
 AsyncWebSocket ws("/ws");
 
 const char* ssid = "Robot_Taller_LED";
-const char* password = "tecvictoria";
+const char* password = "cbtis-15";
 
 // Página Web embebida con prevención de menú contextual
 const char index_html[] PROGMEM = R"rawliteral(

@@ -12,7 +12,7 @@
 #define LED_PIN 2
 
 const char* ssid = "Robot_Movil_AP1";
-const char* password = "tecvictoria";
+const char* password = "cbtis-15";
 
 AsyncWebServer server(80);
 AsyncWebSocket ws("/ws");
